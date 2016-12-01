@@ -1,2 +1,6 @@
-# myFirstGitProject
-This is the first GIT Hub project
+myFirstGitProject
+============
+
+
+This is an example project
+
